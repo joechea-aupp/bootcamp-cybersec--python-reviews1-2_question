@@ -1,0 +1,2 @@
+# write a script to convert the following unsecure url to a secure url
+# http://facebook.com:80 to https://facebook.com:443
